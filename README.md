@@ -1,4 +1,4 @@
-Multiple Linear Regression – Insurance Premium Prediction
+#📊 Multiple Linear Regression – Insurance Premium Prediction
 
 This project demonstrates the implementation of Multiple Linear Regression to predict insurance charges based on key features such as age, BMI, region, gender, smoker status, and number of children. The dataset used is publicly available and processed to create a clean and standardized model pipeline.
 
